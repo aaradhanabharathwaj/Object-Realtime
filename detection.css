@@ -1,0 +1,18 @@
+body{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Pacifico', cursive;  
+}
+canvas{
+    border-radius: 35px;
+    box-shadow: 5px 5px 5px white;
+}
+#home{ 
+        font-size: 20px;
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        border-radius: 20px;
+        border-color: rgba(255, 255, 255, 0);
+        font-family: 'Pacifico', cursive;       
+        width: 100px;
+}

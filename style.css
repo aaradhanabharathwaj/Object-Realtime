@@ -1,0 +1,12 @@
+body{
+    font-family: 'Pacifico', cursive;
+    background-size: cover;
+    color: white;
+}
+.anker{
+    background-color: white;
+    border-radius: 30px;
+    font-size: 20px;
+  
+    width: 300px;  
+}
